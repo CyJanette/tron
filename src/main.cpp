@@ -27,8 +27,6 @@ int main(int argc, char const *argv[])
         cout<<pantalla.ResetPosition(); 
 
     }
-    
-
 
     return EXIT_SUCCESS;
 }
